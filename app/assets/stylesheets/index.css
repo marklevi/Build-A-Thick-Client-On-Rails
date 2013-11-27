@@ -1,0 +1,15 @@
+#answers li.incorrect{
+  background-color: pink;
+}
+
+#answers li.correct {
+  background-color: lightgreen;
+}
+
+.container {
+  width: 500px;
+}
+
+li.clickable {
+  cursor: pointer;
+}
